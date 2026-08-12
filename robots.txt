@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ctgcbr.pulaucuan.online/sitemap.xml
